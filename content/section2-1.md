@@ -1,1 +1,1 @@
-https://docs.google.com/presentation/d/11tKKwq0tV-WTS0G09MaUUJrpBZBXin7urVVl1tw0Y6c/edit
+https://docs.google.com/presentation/d/11tKKwq0tV-WTS0G09MaUUJrpBZBXin7urVVl1tw0Y6c/
