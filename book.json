@@ -14,7 +14,8 @@
         "sectionx",
         "youtubex",
         "edit-link",
-        "advanced-emoji"
+        "advanced-emoji",
+        "googledocs"
     ],
     "pluginsConfig": {
         "ga": {
