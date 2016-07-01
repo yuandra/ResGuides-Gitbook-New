@@ -7,4 +7,5 @@
 * [section2](content/section2.md)
   * [section2-1](content/section2-1.md)
 * [section3](content/section3.md)
+  * [section 3 again](content/section3.md)
 
