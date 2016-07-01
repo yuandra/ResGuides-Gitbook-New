@@ -15,8 +15,7 @@
         "youtubex",
         "edit-link",
         "advanced-emoji",
-        "googledocs",
-        "responsive-iframes"
+        "googledocs"
     ],
     "pluginsConfig": {
         "ga": {
